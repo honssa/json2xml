@@ -1,0 +1,18 @@
+{"menu": {
+    "id": "file",
+    "value": "File",
+    "testArray": [1,2,3,4],
+    "testArray2": ["a","b","c"],
+    "testInteger": 345,
+    "testFloat": 2.534,
+    "testNegative": -0.87,
+    "testNull": null,
+    "testBool": true,
+    "popup": {
+      "menuitem": {
+        "value": "New", "onclick": "CreateNewDoc()",
+        "value2": "Open", "onclick2": "OpenDoc()",
+        "value3": "Close", "onclick3": "CloseDoc()"
+      }
+    }
+  }}

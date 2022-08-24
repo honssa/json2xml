@@ -1,0 +1,1 @@
+extern int array_size;  /* variable do tamanho do array */
